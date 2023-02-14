@@ -15,7 +15,6 @@ Descripcion corta: programa para manejar el inventario de concecionarias y atumo
 <a name="general-info"></a>
 ### General Info
 ***
-
 Programa diseñado para almacenar concecionarias y automoviles, es posible agregarlas, quitarlas y consultarlas. 
 Ademas cuanta con manejo de errors.
 ***
@@ -31,7 +30,7 @@ Lista de tecnologias usadas en este proyecto:
 Ejecutar desde el editor de texto?
 ***
 
-###Collaboration
+### Collaboration
 ***
 * Agregar una base de datos. 
 * Agregar una funcion para buscar autos.
