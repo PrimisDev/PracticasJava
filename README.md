@@ -18,8 +18,6 @@ Descripcion corta: programa para manejar el inventario de concecionarias y atumo
 
 Programa diseñado para almacenar concecionarias y automoviles, es posible agregarlas, quitarlas y consultarlas. 
 Ademas cuanta con manejo de errors.
-### Screenshot
-![Image text](/Users/martin.grasselli/Desktop/Captura de Pantalla 2023-02-14 a la(s) 11.25.08.png)
 ***
 
 ### Technologies
