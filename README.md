@@ -35,8 +35,8 @@ Ejecutar desde el editor de texto?
 
 ###Collaboration
 ***
-> Agregar una base de datos. 
-> Agregar una funcion para buscar autos.
+* Agregar una base de datos. 
+* Agregar una funcion para buscar autos.
 ***
 
 ## FAQs
